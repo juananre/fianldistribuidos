@@ -1,0 +1,57 @@
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\bin\Debug\net6.0\GameServer.exe
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\bin\Debug\net6.0\GameServer.deps.json
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\bin\Debug\net6.0\GameServer.runtimeconfig.json
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\bin\Debug\net6.0\GameServer.dll
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\bin\Debug\net6.0\GameServer.pdb
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\bin\Debug\net6.0\CS_SocketIO.dll
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\bin\Debug\net6.0\CS_SocketIO.pdb
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.csproj.CopyComplete
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.dll
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\obj\Debug\net6.0\refint\GameServer.dll
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.pdb
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CS_SocketIO\GameServer\obj\Debug\net6.0\ref\GameServer.dll
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\bin\Debug\net6.0\GameServer.exe
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\bin\Debug\net6.0\GameServer.deps.json
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\bin\Debug\net6.0\GameServer.runtimeconfig.json
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\bin\Debug\net6.0\GameServer.dll
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\bin\Debug\net6.0\GameServer.pdb
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\bin\Debug\net6.0\CS_SocketIO.dll
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\bin\Debug\net6.0\CS_SocketIO.pdb
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.csproj.AssemblyReference.cache
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.AssemblyInfoInputs.cache
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.AssemblyInfo.cs
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.csproj.CopyComplete
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.dll
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\obj\Debug\net6.0\refint\GameServer.dll
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.pdb
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\obj\Debug\net6.0\GameServer.genruntimeconfig.cache
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\GameServer\obj\Debug\net6.0\ref\GameServer.dll
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\bin\Debug\net6.0\GameServer.exe
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\bin\Debug\net6.0\GameServer.deps.json
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\bin\Debug\net6.0\GameServer.runtimeconfig.json
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\bin\Debug\net6.0\GameServer.dll
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\bin\Debug\net6.0\GameServer.pdb
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\bin\Debug\net6.0\CS_SocketIO.dll
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\bin\Debug\net6.0\CS_SocketIO.pdb
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\obj\Debug\net6.0\GameServer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\obj\Debug\net6.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\obj\Debug\net6.0\GameServer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\obj\Debug\net6.0\GameServer.AssemblyInfo.cs
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\obj\Debug\net6.0\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\obj\Debug\net6.0\GameServer.csproj.CopyComplete
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\obj\Debug\net6.0\GameServer.dll
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\obj\Debug\net6.0\refint\GameServer.dll
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\obj\Debug\net6.0\GameServer.pdb
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\obj\Debug\net6.0\GameServer.genruntimeconfig.cache
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\GameServer\obj\Debug\net6.0\ref\GameServer.dll

@@ -1,0 +1,38 @@
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\bin\Debug\net6.0\ExampleServer.exe
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\bin\Debug\net6.0\ExampleServer.deps.json
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\bin\Debug\net6.0\ExampleServer.runtimeconfig.json
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\bin\Debug\net6.0\ExampleServer.dll
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\bin\Debug\net6.0\ExampleServer.pdb
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\bin\Debug\net6.0\CS_SocketIO.dll
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\bin\Debug\net6.0\CS_SocketIO.pdb
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.csproj.CopyComplete
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.dll
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\obj\Debug\net6.0\refint\ExampleServer.dll
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.pdb
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ref\ExampleServer.dll
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\bin\Debug\net6.0\ExampleServer.exe
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\bin\Debug\net6.0\ExampleServer.deps.json
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\bin\Debug\net6.0\ExampleServer.runtimeconfig.json
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\bin\Debug\net6.0\ExampleServer.dll
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\bin\Debug\net6.0\ExampleServer.pdb
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\bin\Debug\net6.0\CS_SocketIO.dll
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\bin\Debug\net6.0\CS_SocketIO.pdb
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.csproj.AssemblyReference.cache
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.AssemblyInfoInputs.cache
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.AssemblyInfo.cs
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.csproj.CoreCompileInputs.cache
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.csproj.CopyComplete
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.dll
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\obj\Debug\net6.0\refint\ExampleServer.dll
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.pdb
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ExampleServer.genruntimeconfig.cache
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\ExampleServer\obj\Debug\net6.0\ref\ExampleServer.dll

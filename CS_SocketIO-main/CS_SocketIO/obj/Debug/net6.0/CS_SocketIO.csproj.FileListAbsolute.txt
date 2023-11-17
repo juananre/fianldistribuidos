@@ -1,0 +1,36 @@
+C:\Users\Admin\source\repos\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CS_SocketIO\CS_SocketIO\bin\Debug\net6.0\CS_SocketIO.deps.json
+C:\Users\Admin\source\repos\CS_SocketIO\CS_SocketIO\bin\Debug\net6.0\CS_SocketIO.dll
+C:\Users\Admin\source\repos\CS_SocketIO\CS_SocketIO\bin\Debug\net6.0\CS_SocketIO.pdb
+C:\Users\Admin\source\repos\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.dll
+C:\Users\Admin\source\repos\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\refint\CS_SocketIO.dll
+C:\Users\Admin\source\repos\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.pdb
+C:\Users\Admin\source\repos\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\ref\CS_SocketIO.dll
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\CS_SocketIO\bin\Debug\net6.0\CS_SocketIO.deps.json
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\CS_SocketIO\bin\Debug\net6.0\CS_SocketIO.dll
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\CS_SocketIO\bin\Debug\net6.0\CS_SocketIO.pdb
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.csproj.AssemblyReference.cache
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.AssemblyInfoInputs.cache
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.AssemblyInfo.cs
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.csproj.CoreCompileInputs.cache
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.dll
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\refint\CS_SocketIO.dll
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.pdb
+C:\Users\manol\Dev\Curso\Sistemas interactivos distribuidos\2023-2\CS_SocketIO\CS_SocketIO\obj\Debug\net6.0\ref\CS_SocketIO.dll
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\CS_SocketIO\bin\Debug\net6.0\CS_SocketIO.deps.json
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\CS_SocketIO\bin\Debug\net6.0\CS_SocketIO.dll
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\CS_SocketIO\bin\Debug\net6.0\CS_SocketIO.pdb
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.AssemblyInfo.cs
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.dll
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\CS_SocketIO\obj\Debug\net6.0\refint\CS_SocketIO.dll
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\CS_SocketIO\obj\Debug\net6.0\CS_SocketIO.pdb
+C:\Users\User\Desktop\DISTRIBUIDOS\CS_SocketIO-main\CS_SocketIO\obj\Debug\net6.0\ref\CS_SocketIO.dll
