@@ -1277,7 +1277,7 @@ RectTransform:
   m_GameObject: {fileID: 285664294}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.75253, y: 0.75253, z: 0.75253}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1558299819}
@@ -1743,6 +1743,7 @@ MonoBehaviour:
   CoinPrefab: {fileID: 667262961535983715, guid: 4c0cc2bc31d56b24c87cd5449f85befb, type: 3}
   playerListPrefab: {fileID: 8602556107685347286, guid: a7076f84ae263914183a34516c04bd87, type: 3}
   scrollViewContent: {fileID: 7938702939676507384}
+  ProjectilePrefab: {fileID: 6368337780148201645, guid: 94aca00c6a2bada4a8ce30fb3ecb7b62, type: 3}
 --- !u!4 &421584676
 Transform:
   m_ObjectHideFlags: 0
@@ -3613,7 +3614,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -5668,7 +5669,7 @@ RectTransform:
   m_GameObject: {fileID: 1944733807}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.86742, y: 0.86742, z: 0.86742}
+  m_LocalScale: {x: 0.8222892, y: 0.8222892, z: 0.8222892}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1401083746}
@@ -5678,7 +5679,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 323, y: 157}
+  m_AnchoredPosition: {x: 300, y: 131}
   m_SizeDelta: {x: 200, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1944733809
@@ -5956,12 +5957,12 @@ PrefabInstance:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 899543393}
   - {fileID: 1354780818}
   - {fileID: 238636922}
   - {fileID: 412182267}
   - {fileID: 118606696}
   - {fileID: 8955308439875203518}
   - {fileID: 421584676}
-  - {fileID: 899543393}
   - {fileID: 1954953774}
   - {fileID: 377677673}

@@ -10,6 +10,9 @@ public class InputController : MonoBehaviour
 
     public static InputController _Instance { get; set; }
     public event Action<Axis> onAxisChange;
+    public event Action<Vector2> onProjectileLaunch;
+    public event Action onThrow; // Evento para lanzar algo
+
 
     private static Axis axis = new Axis { Horizontal = 0, Vertical =0};
     Axis LastAxis = new Axis { Horizontal = 0, Vertical =0};
@@ -29,6 +32,11 @@ public class InputController : MonoBehaviour
         axis.Vertical = Mathf.RoundToInt(verticalInput);
         axis.Horizontal = Mathf.RoundToInt(horizontalInput);
 
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            Debug.Log("E key pressed");
+            onProjectileLaunch?.Invoke(transform.position);
+        }
     }
 
     private void LateUpdate()

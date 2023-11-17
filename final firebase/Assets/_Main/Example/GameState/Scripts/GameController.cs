@@ -25,11 +25,16 @@ public class GameController : MonoBehaviour
     [Header("jugadores")]
     private List<string> connectedPlayers = new List<string>();
 
+    public event Action<Vector2> onProjectileLaunch;
+
     [SerializeField]
     private TMP_Text playerListPrefab; // Prefab de TextMeshProUGUI para representar a un jugador en la lista
     [SerializeField]
     private Transform scrollViewContent; // Asigna la referencia al contenido del ScrollView desde el Inspector
+    [SerializeField]
+    private GameObject ProjectilePrefab;
 
+   
     internal void StartGame(GameState state)
     {
         PlayersToRender = new Dictionary<string, Transform>();
@@ -48,6 +53,7 @@ public class GameController : MonoBehaviour
         var Socket = NetworkController._Instance.Socket;
 
         InputController._Instance.onAxisChange += (axis) => { Socket.Emit("move", axis); };
+        Socket.On("projectileLaunched", OnProjectileLaunched);
 
         State = state;
         Socket.On("updateState", UpdateState);
@@ -55,6 +61,13 @@ public class GameController : MonoBehaviour
 
     }
 
+    private void OnProjectileLaunched(string json)
+    {
+        JsonData jsonData = JsonUtility.FromJson<JsonData>(json);
+        Vector2 position = JsonUtility.FromJson<Vector2>(jsonData.Position);
+
+        InstantiateProjectile(position);
+    }
     private void InstantiatePlayer(Player player)
     {
         GameObject playerGameObject = Instantiate(PlayerPrefab, PlayersContainer);
@@ -121,6 +134,7 @@ public class GameController : MonoBehaviour
             }
 
         }
+        
     }
     private void InstantiateCoin(Coin coin)
     {
@@ -130,6 +144,16 @@ public class GameController : MonoBehaviour
 
         CoinsToRender[coin.Id] = coinGameObject.transform;
     }
+    private void InstantiateProjectile(Vector2 position)
+    {
+        GameObject projectileGameObject = Instantiate(ProjectilePrefab, CoinsContainer);
+        projectileGameObject.transform.position = position;
+    }
+    public void LaunchProjectile(Vector2 position)
+    {
+        onProjectileLaunch?.Invoke(position);
+    }
+
 
     private void UpdateConnectedPlayersUI()
     {

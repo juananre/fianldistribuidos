@@ -19,6 +19,13 @@ public class NetworkController : MonoBehaviour
     {
         _Instance = this;
         Socket = GameObject.Find("SocketUdpController").GetComponent<SocketUdpController>();
+        InputController._Instance.onProjectileLaunch += OnProjectileLaunch;
+
+    }
+
+    private void OnProjectileLaunch(Vector2 position)
+    {
+        Socket.Emit("launchProjectile", new { Position = position });
     }
 
     public void ConnectToServer()
@@ -72,6 +79,8 @@ public class JsonData
     public string Id;
     public string Message;
     public GameState State;
+
+    public string Position { get; internal set; }
 }
 
 [Serializable]
