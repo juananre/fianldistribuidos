@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
+using TMPro;
 
 public class GameController : MonoBehaviour
 {
@@ -21,6 +22,14 @@ public class GameController : MonoBehaviour
     private GameState State;
     private Dictionary<string, Transform> PlayersToRender;
     private Dictionary<string, Transform> CoinsToRender;
+    [Header("jugadores")]
+    private List<string> connectedPlayers = new List<string>();
+
+    [SerializeField]
+    private TMP_Text playerListPrefab; // Prefab de TextMeshProUGUI para representar a un jugador en la lista
+    [SerializeField]
+    private Transform scrollViewContent; // Asigna la referencia al contenido del ScrollView desde el Inspector
+
     internal void StartGame(GameState state)
     {
         PlayersToRender = new Dictionary<string, Transform>();
@@ -32,6 +41,7 @@ public class GameController : MonoBehaviour
 
         foreach (Player player in state.Players)
         {
+            connectedPlayers.Add(player.Username);
             InstantiatePlayer(player);
         }
 
@@ -42,7 +52,7 @@ public class GameController : MonoBehaviour
         State = state;
         Socket.On("updateState", UpdateState);
 
-        
+
     }
 
     private void InstantiatePlayer(Player player)
@@ -65,10 +75,12 @@ public class GameController : MonoBehaviour
     internal void NewPlayer(string id, string username)
     {
         InstantiatePlayer(new Player { Id = id, Username = username });
+        connectedPlayers.Add(username);
     }
 
     void Update()
     {
+        UpdateConnectedPlayersUI();
         if (State != null)
         {
             foreach (Player player in State.Players)
@@ -81,7 +93,7 @@ public class GameController : MonoBehaviour
                 {
                     InstantiatePlayer(player);
                 }
-              
+
             }
             var plarersToDelete = PlayersToRender.Where(item => !State.Players.Any(player => player.Id == item.Key)).ToList();
             foreach (var playerItem in plarersToDelete)
@@ -119,9 +131,21 @@ public class GameController : MonoBehaviour
         CoinsToRender[coin.Id] = coinGameObject.transform;
     }
 
+    private void UpdateConnectedPlayersUI()
+    {
+        // Limpiar la lista actual en el ScrollView
+        foreach (Transform child in scrollViewContent)
+        {
+            Destroy(child.gameObject);
+        }
 
-
-
+        // Crear nuevos objetos de texto para cada jugador y agregarlos al ScrollView
+        foreach (string playerName in connectedPlayers)
+        {
+            TMP_Text playerText = Instantiate(playerListPrefab, scrollViewContent);
+            playerText.text = playerName;
+        }
+    }
 }
 
 [Serializable]
